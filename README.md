@@ -2,8 +2,11 @@
 How would you create a suggestion model that accurately show the right fit for the user in a matrimony or dating site?
 
 This Model use Jaccard Similarity which is a widely used metric for measuring similarity between sets, including in scenarios with large datasets.
-\[ J(A, B) = \frac{|A \cap B|}{|A \cup B|} \]
+## Jaccard Similarity
 
+The Jaccard Similarity measures the similarity between two sets by comparing the size of their intersection to the size of their union. It is defined by the equation:
+
+\[ J(A, B) = \frac{|A \cap B|}{|A \cup B|} \]
 
 Where:
 - \( A \) and \( B \) are sets.
