@@ -6,7 +6,7 @@ This Model use Jaccard Similarity which is a widely used metric for measuring si
 
 The Jaccard Similarity measures the similarity between two sets by comparing the size of their intersection to the size of their union. It is defined by the equation:
 
-\[ J(A, B) = \frac{|A \cap B|}{|A \cup B|} \]
+![Jaccard Similarity](https://latex.codecogs.com/gif.latex?J%28A%2C%20B%29%20%3D%20%5Cfrac%7B%7CA%20%5Ccap%20B%7C%7D%7B%7CA%20%5Ccup%20B%7C%7D)
 
 Where:
 - \( A \) and \( B \) are sets.
