@@ -15,7 +15,13 @@ Where:
 
 This metric is commonly used in data mining, information retrieval, and natural language processing to assess the similarity between documents, sets of keywords, or other data representations.
 
-#Output
+## OUTPUT
 
-![output]("C:\Users\ilhaa\OneDrive\Pictures\Screenshots\OKOK.png")
+Calculated similarity between Male User and Female User 1 is 0.18
+Calculated similarity between Male User and Female User 2 is 0.00
+Calculated similarity between Male User and Female User 3 is 0.25
+Best matches for Male User:
+Female User 3 with similarity score 0.25
+Female User 1 with similarity score 0.18
+
 
