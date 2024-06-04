@@ -29,6 +29,6 @@ Female User 3 with similarity score 0.25
 
 Female User 1 with similarity score 0.18c
 
-![plot](C:\Users\ilhaa\Downloads\Marriage Matchmaking Website Process Flow.png)
+![Image Alt text](\Users\ilhaa\Downloads\Marriage Matchmaking Website Process Flow.png)
 
 
