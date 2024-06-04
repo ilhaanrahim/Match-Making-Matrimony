@@ -29,6 +29,6 @@ Female User 3 with similarity score 0.25
 
 Female User 1 with similarity score 0.18c
 
-![Image Alt text]([https://ibb.co/55G81p7](https://i.ibb.co/XzjsW0w/Marriage-Matchmaking-Website-Process-Flow.png))
+![Image Alt text](https://ibb.co/55G81p7](https://i.ibb.co/XzjsW0w/Marriage-Matchmaking-Website-Process-Flow.png)
 
 
